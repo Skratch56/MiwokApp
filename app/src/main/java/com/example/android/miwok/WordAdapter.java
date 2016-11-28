@@ -34,7 +34,6 @@ public class WordAdapter extends ArrayAdapter<Word> {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
-
         Word words = getItem(position);
 
         if (convertView == null) {
@@ -51,7 +50,6 @@ public class WordAdapter extends ArrayAdapter<Word> {
         }else{
             imgIcon.setVisibility(View.GONE);
         }
-
 
         TextView txtDefault = (TextView) convertView.findViewById(R.id.txtDefault);
         txtDefault.setText(words.getDefaultTranslation());
