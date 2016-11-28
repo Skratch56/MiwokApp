@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="black">omnyama</string>
+    <string name="brown">obubende</string>
+    <string name="red">obovu</string>
+    <string name="seven">kusikhombisa</string>
+    <string name="white">omhlophe</string>
+    <string name="ten">Lishumi</string>
+    <string name="one">kunye</string>
+    <string name="two">kubili</string>
+    <string name="three">kutsatfu</string>
+    <string name="four">kune</string>
+    <string name="five">kusihlanu</string>
+    <string name="six">kusitfupha</string>
+    <string name="eight">kusiphohlongo</string>
+    <string name="nine">kuyimfica</string>
+    <string name="mustard_yellow">oqanda</string>
+    <string name="green">oluhlaza satshani</string>
+    <string name="gray">ompunga</string>
+    <string name="grand_mother">gogo</string>
+    <string name="grand_father">mkhulu</string>
+    <string name="daughter"></string>
+    <string name="mother">make</string>
+    <string name="older_brother">bhuti lomdzala</string>
+    <string name="older_sister">sesi lomdzala</string>
+    <string name="son">ndvodzana</string>
+    <string name="younger_brother">bhuti lomncane</string>
+    <string name="younger_sister">sesi lomncane</string>
+    <string name="father">babe</string>
+    <string name="are_you_coming">uyeta?</string>
+    <string name="come_here">buya la</string>
+    <string name="how_are_you_feeling"></string>
+    <string name="im_coming">Ngiyeta</string>
+    <string name="im_feeling_good"></string>
+    <string name="lets_go">asambe</string>
+    <string name="my_name_is">ligama lami ngu</string>
+    <string name="what_is_your_name">Ungubani ligama lakho</string>
+    <string name="where_are_you_going">uyaphi</string>
+    <string name="yes_im_coming">yebo ngiyeta</string>
+</resources>
