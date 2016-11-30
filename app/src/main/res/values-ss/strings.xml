@@ -20,7 +20,7 @@
     <string name="gray">ompunga</string>
     <string name="grand_mother">gogo</string>
     <string name="grand_father">mkhulu</string>
-    <string name="daughter"></string>
+    <string name="daughter">Indvodzakati</string>
     <string name="mother">make</string>
     <string name="older_brother">bhuti lomdzala</string>
     <string name="older_sister">sesi lomdzala</string>
@@ -30,12 +30,13 @@
     <string name="father">babe</string>
     <string name="are_you_coming">uyeta?</string>
     <string name="come_here">buya la</string>
-    <string name="how_are_you_feeling"></string>
-    <string name="im_coming">Ngiyeta</string>
-    <string name="im_feeling_good"></string>
+    <string name="how_are_you_feeling">utiva njani?</string>
+    <string name="im_coming">ngiyeta</string>
+    <string name="im_feeling_good">ngitiva mnandzi</string>
     <string name="lets_go">asambe</string>
     <string name="my_name_is">ligama lami ngu</string>
     <string name="what_is_your_name">Ungubani ligama lakho</string>
     <string name="where_are_you_going">uyaphi</string>
     <string name="yes_im_coming">yebo ngiyeta</string>
+    <string name="dusty_yellow">oqanda</string>
 </resources>
